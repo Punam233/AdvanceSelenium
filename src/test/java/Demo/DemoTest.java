@@ -10,7 +10,9 @@ public class DemoTest {
 	public void movieTest()
 	{
 		System.out.println("Toxic");
-		System.out.println("abd");
+		System.out.println("Cocktail");
+		System.out.println("A");
+		System.out.println("B");
 	}
 	
 	
