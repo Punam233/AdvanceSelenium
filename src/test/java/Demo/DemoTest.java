@@ -13,6 +13,8 @@ public class DemoTest {
 		System.out.println("Cocktail");
 		System.out.println("A");
 		System.out.println("B");
+		System.out.println("C");
+		System.out.println("D");
 	}
 	
 	
